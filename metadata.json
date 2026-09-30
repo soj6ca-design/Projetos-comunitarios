@@ -1,0 +1,8 @@
+{
+  "name": "Vanira e Vanessa",
+  "description": "Sistema inteligente de gestão para salão de beleza com agenda, clientes, financeiro, WhatsApp, IA e portal do cliente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
